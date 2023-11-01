@@ -1,0 +1,1 @@
+print("tester.py__name__:" , __name__)
